@@ -194,7 +194,7 @@ footer {
     margin-left: 12px;
 }
 .cover-image {
-    background-image: url('styles/cover.png');
+    background-image: url('docs/assets/cover.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
